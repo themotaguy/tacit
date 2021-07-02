@@ -1,12 +1,5 @@
 # Django based music streaming website
 
-### Website Preview
-#### Home Page
-<img src="website_images/Home.png" width="900">
-
-#### Detail Page
-<img src="website_images/Detail.png" width="900">
-
 ----
 
 ## Installation 📦
@@ -60,7 +53,3 @@ $ python manage.py runserver
 #### Step 3
 
 - 🔃 Create a new pull request.
-
-
-
-
